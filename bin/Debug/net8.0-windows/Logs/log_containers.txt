@@ -1,0 +1,65 @@
+09/10/2025 13:14:38 | REMOVIDO   | ID: MAEU7654321  | Saída: 06/10/2025 | Posição: B1-R1-T3
+09/10/2025 13:46:31 | ATUALIZADO | ID: MAEU7654321  | Saída: 06/10/2025 | Posição: B1-R1-T3
+09/10/2025 13:46:39 | ATUALIZADO | ID: MAEU7654321  | Saída: 05/10/2025 | Posição: B1-R1-T3
+09/10/2025 13:46:40 | ATUALIZADO | ID: MAEU7654321  | Saída: 05/10/2025 | Posição: B1-R1-T3
+09/10/2025 13:46:40 | ATUALIZADO | ID: MAEU7654321  | Saída: 05/10/2025 | Posição: B1-R1-T3
+09/10/2025 13:46:40 | ATUALIZADO | ID: MAEU7654321  | Saída: 05/10/2025 | Posição: B1-R1-T3
+09/10/2025 13:47:38 | REMOVIDO   | ID: MAEU7654321  | Saída: 05/10/2025 | Posição: B1-R1-T3
+09/10/2025 14:38:33 | EDITADO    | ID: TRHU9182735  | Saída: 10/10/2025 | Posição: B4-R3-T2
+09/10/2025 14:38:38 | EDITADO    | ID: TRHU9182735  | Saída: 10/10/2025 | Posição: B4-R3-T2
+09/10/2025 14:38:40 | EDITADO    | ID: TRHU9182735  | Saída: 11/10/2025 | Posição: B4-R3-T2
+09/10/2025 14:38:50 | EDITADO    | ID: TRHU9182735  | Saída: 11/10/2025 | Posição: B4-R3-T2
+09/10/2025 14:38:53 | EDITADO    | ID: TRHU9182735  | Saída: 13/10/2025 | Posição: B4-R3-T2
+09/10/2025 14:38:55 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:39:04 | REMOVIDO   | ID: MAEU7654321  | Saída: 06/10/2025 | Posição: B1-R1-T3
+09/10/2025 14:39:10 | REMOVIDO   | ID: MSCU1234567  | Saída: 07/10/2025 | Posição: B2-R1-T3
+09/10/2025 14:39:15 | REMOVIDO   | ID: HLCU2468135  | Saída: 07/10/2025 | Posição: B3-R1-T3
+09/10/2025 14:39:20 | REMOVIDO   | ID: OOLU3579246  | Saída: 07/10/2025 | Posição: B4-R1-T3
+09/10/2025 14:39:25 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:39:30 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:19 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:19 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:20 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:20 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:20 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:20 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:52 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:52 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:52 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:53 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:53 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:40:59 | INSERIDO   | ID: TRHU9182735p | Saída: 07/10/2025 | Posição: B1-R1-T1
+09/10/2025 14:41:02 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 14:41:26 | REMOVIDO   | ID: TRHU9182735p | Saída: 07/10/2025 | Posição: B2-R1-T3
+09/10/2025 14:41:35 | REMOVIDO   | ID: TRHU9182735  | Saída: 13/10/2025 | Posição: B1-R1-T1
+09/10/2025 14:41:37 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:26 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:29 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:36 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:36 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:37 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:37 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:38 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:38 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:39 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:39 | DESFEITO   | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:39 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:07:54 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:23:48 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:55:16 | OTIMIZADO  | ID: Pátio (31 mov) | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:55:23 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:55:36 | OTIMIZADO  | ID: Pátio (0 mov) | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:55:38 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:55:47 | OTIMIZADO  | ID: Pátio (19 mov) | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:55:48 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:56:34 | OTIMIZADO  | ID: Pátio (32 mov) | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 15:56:36 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 19:55:22 | OTIMIZADO  | ID: Pátio (1 mov) | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 19:55:24 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 20:07:07 | OTIMIZADO  | ID: Pátio (0 mov) | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 20:07:11 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 20:07:31 | INSERIDO   | ID: MSCU326173613 | Saída: 14/10/2025 | Posição: B1-R4-T3
+09/10/2025 20:07:36 | OTIMIZADO  | ID: Pátio (2 mov) | Saída: 01/01/0001 | Posição: B0-R0-T0
+09/10/2025 20:07:39 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
+10/10/2025 07:21:32 | OTIMIZADO  | ID: Pátio (0 mov)
+10/10/2025 07:22:31 | OTIMIZADO  | ID: Pátio (0 mov)

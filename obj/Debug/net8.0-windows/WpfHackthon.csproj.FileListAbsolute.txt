@@ -1,0 +1,134 @@
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon_MarkupCompile.cache
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon_MarkupCompile.lref
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.exe
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.deps.json
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.runtimeconfig.json
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.pdb
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.csproj.AssemblyReference.cache
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.g.resources
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.AssemblyInfoInputs.cache
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.AssemblyInfo.cs
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.csproj.CoreCompileInputs.cache
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackt.F148F108.Up2Date
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\refint\WpfHackthon.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.pdb
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.genruntimeconfig.cache
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\ref\WpfHackthon.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome5.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome6.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.KeyruneIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MingCuteIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MynaUIIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Heitor Terrabuio\source\repos\WpfHackthon\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.sourcelink.json
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.exe
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.deps.json
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.runtimeconfig.json
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\WpfHackthon.pdb
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome5.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome6.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.KeyruneIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MingCuteIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MynaUIIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+L:\GitHub\iPort-Project\WpfHackthon\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.csproj.AssemblyReference.cache
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\MainWindow.g.cs
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\App.g.cs
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon_MarkupCompile.cache
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon_MarkupCompile.lref
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\MainWindow.baml
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.g.resources
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.GeneratedMSBuildEditorConfig.editorconfig
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.AssemblyInfoInputs.cache
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.AssemblyInfo.cs
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.csproj.CoreCompileInputs.cache
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.sourcelink.json
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackt.F148F108.Up2Date
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.dll
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\refint\WpfHackthon.dll
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.pdb
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\WpfHackthon.genruntimeconfig.cache
+L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\ref\WpfHackthon.dll

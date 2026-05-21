@@ -1,78 +1,85 @@
-# 📦 Sistema de Organização de Containers (WPF)
+﻿# Hackathon Unisanta - iPort Solutions
 
-Projeto desenvolvido durante um **hackathon**, com o objetivo de simular e otimizar a organização de containers em um pátio logístico utilizando **WPF (Windows Presentation Foundation)**.
+## Desafio: Sistema de Gestão de Pátio de Contêineres
 
----
+### Contexto
 
-## 🚀 Funcionalidades
+Empresas portuárias enfrentam diariamente o desafio de organizar grandes pátios de contêineres. Uma má organização pode gerar desperdício de tempo, maior custo operacional e excesso de movimentos desnecessários na movimentação das cargas.
 
-- 📥 Importação de dados via JSON  
-- 💾 Persistência de containers em arquivo  
-- 📊 Organização automática do pátio  
-- 🔄 Otimização baseada na data de saída dos containers  
-- 📍 Controle de posição (Bay, Row, Tier)  
-- ⚠️ Detecção de bloqueios (containers sobrepostos)  
-- 📝 Sistema de logs de movimentação  
-- 📈 Contagem de movimentações por container  
-- ↩️ Desfazer otimização  
+### Objetivo
 
----
+Criar um sistema que auxilie a gestão de um pátio de contêineres, permitindo:
 
-## 🧠 Lógica do Sistema
-
-O sistema organiza os containers com base na **data de saída**, priorizando aqueles que sairão primeiro.
-
-### 📌 Exemplo da lógica
-
-- Containers são ordenados por data de saída  
-- Distribuídos entre as baias (bays)  
-- Empilhados respeitando o limite de altura (tiers)  
-- Evita bloqueios sempre que possível  
+- **Cadastro de contêineres** com datas de entrada e saída previstas.
+- **Organização automática dos contêineres** para otimizar espaço e reduzir movimentos.
+- **Visualização do estado atual do pátio** em tabela (DataGrid) e visualização 3D.
+- **Planejamento de alocação** e sugestão de posição ideal para novos contêineres.
+- **Plano de retirada**: o sistema sugere a melhor estratégia para retirar um contêiner, minimizando movimentos.
+- **Histórico e relatório de operações**: todas as movimentações, inclusões, edições e remoções são registradas em log.
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Funcionalidades
 
-### 📁 Classes principais
-
-#### 📦 Container
-- Representa um container no sistema  
-- Possui posição e datas  
-
----
-
-#### 🧠 PatioService
-- Responsável pela lógica principal do pátio  
-- Otimização, movimentação e organização  
+- **Input de contêineres**: Adicione um ou mais contêineres, informando datas de entrada e saída.
+- **Organização inteligente**: Algoritmo otimiza a disposição dos contêineres no pátio.
+- **Visualização**: 
+  - Tabela detalhada (DataGrid) com status e datas.
+  - Visualização 3D interativa do pátio (HelixToolkit).
+- **Plano de retirada**: Veja os passos necessários para retirar um contêiner específico.
+- **Relatório de histórico**: Log detalhado de todas as operações e movimentações.
+- **Confirmação de ações críticas**: Edição, inclusão e remoção de contêineres exigem confirmação do usuário.
 
 ---
 
-#### 💾 JsonService
-- Leitura e escrita de arquivos JSON  
+## Requisitos Mínimos Atendidos
+
+- Cadastro e status dos contêineres.
+- Interface simples e intuitiva para visualização do pátio.
+- Algoritmo de posicionamento e otimização.
+- Relatório/histórico de remoções e movimentações.
 
 ---
 
-#### 📝 LogService
-- Registro de ações e movimentações  
-- Contagem de operações por container  
+## Tecnologias Utilizadas
+
+- **.NET 8 / C#**
+- **WPF (Windows Presentation Foundation)**
+- **HelixToolkit.Wpf** (visualização 3D)
+- **Newtonsoft.Json** (persistência dos dados)
+- **MVVM/Services** (organização do código)
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Como Executar
 
-- C#  
-- WPF  
-- Newtonsoft.Json  
-- .NET  
+1. Clone este repositório.
+2. Abra a solução no Visual Studio 2022 ou superior.
+3. Restaure os pacotes NuGet.
+4. Compile e execute o projeto `WpfHackthon`.
+5. Utilize a interface para cadastrar, organizar, visualizar e planejar a retirada dos contêineres.
 
 ---
 
-## 🏁 Objetivo do Projeto
+## Estrutura do Projeto
 
-Demonstrar habilidades em:
+- `MainWindow.xaml` / `MainWindow.xaml.cs`: Interface principal e lógica de interação.
+- `Classes/PatioService.cs`: Lógica de organização e manipulação dos contêineres.
+- `Classes/LogService.cs`: Registro de todas as operações.
+- `Classes/JsonService.cs`: Persistência dos dados em JSON.
+- `Patio3DViewWindow.xaml`: Visualização 3D do pátio.
 
-- Estruturação de sistemas em C#  
-- Manipulação de dados (JSON)  
-- Lógica de otimização  
-- Organização de código (services)  
-- Desenvolvimento desktop com WPF  
+---
+
+## Observações
+
+- Todas as operações críticas são registradas em log para auditoria.
+- O sistema foi desenvolvido para ser facilmente expandido e adaptado a diferentes cenários portuários.
+- O código segue boas práticas de organização e separação de responsabilidades.
+
+---
+
+## Licença
+
+Este projeto foi desenvolvido para fins acadêmicos no Hackathon Unisanta - iPort Solutions.
+Pelo grupo Teck Minds participante: [Heitor Terrabuio, Luis Felipe Dias de Souza, Matheus Enrico Araujo Santos, Scott Kayllou Vitorino Melo].
