@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Img\FOTO FEITA STACKER.png" />
+    <None Remove="Assets\Img\iport_logo_mono_nobg-CE7009qc.ico" />
+    <None Remove="Assets\Img\iport_logo_mono_nobg-CE7009qc.png" />
+    <None Remove="Assets\Img\Logo_iPortSolutions.ico" />
+    <None Remove="Assets\Img\Logo_iPortSolutions.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="6.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\Font\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Img\FOTO FEITA STACKER.png" />
+    <Resource Include="Assets\Img\iport_logo_mono_nobg-CE7009qc.png" />
+    <Resource Include="Assets\Img\Logo_iPortSolutions.ico" />
+    <Resource Include="Assets\Img\Logo_iPortSolutions.png" />
+  </ItemGroup>
+
+</Project>
