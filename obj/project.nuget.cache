@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6J2AfUICng=",
+  "dgSpecHash": "zDNHbt+hJN8=",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\iPort-Project\\WpfHackthon\\WpfHackthon.csproj",
+  "projectFilePath": "C:\\GitHub\\iPort-Project\\WpfHackthon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lufed\\.nuget\\packages\\mahapps.metro.iconpacks\\6.1.0\\mahapps.metro.iconpacks.6.1.0.nupkg.sha512",
     "C:\\Users\\lufed\\.nuget\\packages\\mahapps.metro.iconpacks.bootstrapicons\\6.1.0\\mahapps.metro.iconpacks.bootstrapicons.6.1.0.nupkg.sha512",

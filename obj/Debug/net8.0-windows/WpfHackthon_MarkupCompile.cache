@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-L:\GitHub\iPort-Project\WpfHackthon\obj\Debug\net8.0-windows\
+C:\GitHub\iPort-Project\obj\Debug\net8.0-windows\
 WpfHackthon
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-L:\GitHub\iPort-Project\WpfHackthon\App.xaml
+C:\GitHub\iPort-Project\App.xaml
 11407045341
 
 81576613865
