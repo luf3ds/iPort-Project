@@ -63,3 +63,8 @@
 09/10/2025 20:07:39 | OTIMIZADO  | ID: Pátio Inteiro | Saída: 01/01/0001 | Posição: B0-R0-T0
 10/10/2025 07:21:32 | OTIMIZADO  | ID: Pátio (0 mov)
 10/10/2025 07:22:31 | OTIMIZADO  | ID: Pátio (0 mov)
+21/05/2026 23:57:42 | MOVIDO     | ID: CONT004      | De: B2-R1-T1   -> Para: B1-R1-T1   | Total de Movimentos: 1
+21/05/2026 23:57:42 | MOVIDO     | ID: CONT002      | De: B1-R1-T2   -> Para: B2-R1-T1   | Total de Movimentos: 1
+21/05/2026 23:57:42 | MOVIDO     | ID: CONT001      | De: B1-R1-T1   -> Para: B3-R1-T1   | Total de Movimentos: 1
+21/05/2026 23:57:42 | MOVIDO     | ID: CONT003      | De: B1-R2-T1   -> Para: B4-R1-T1   | Total de Movimentos: 1
+21/05/2026 23:57:42 | OTIMIZADO  | ID: Pátio (4 mov)

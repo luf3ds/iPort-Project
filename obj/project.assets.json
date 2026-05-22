@@ -1869,11 +1869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\iPort-Project\\WpfHackthon\\WpfHackthon.csproj",
+      "projectUniqueName": "C:\\GitHub\\iPort-Project\\WpfHackthon.csproj",
       "projectName": "WpfHackthon",
-      "projectPath": "C:\\GitHub\\iPort-Project\\WpfHackthon\\WpfHackthon.csproj",
+      "projectPath": "C:\\GitHub\\iPort-Project\\WpfHackthon.csproj",
       "packagesPath": "C:\\Users\\lufed\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\iPort-Project\\WpfHackthon\\obj\\",
+      "outputPath": "C:\\GitHub\\iPort-Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
