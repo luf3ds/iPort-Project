@@ -1,85 +1,99 @@
-﻿# Hackathon Unisanta - iPort Solutions
+# 🚢 Hackathon Unisanta - iPort Solutions
 
-## Desafio: Sistema de Gestão de Pátio de Contêineres
+## Challenge: Container Yard Management System
 
-### Contexto
+### Context
 
-Empresas portuárias enfrentam diariamente o desafio de organizar grandes pátios de contêineres. Uma má organização pode gerar desperdício de tempo, maior custo operacional e excesso de movimentos desnecessários na movimentação das cargas.
+Port companies face the daily challenge of organizing large container yards. Poor organization can lead to wasted time, increased operational costs, and unnecessary container movements during cargo handling operations.
 
-### Objetivo
+### Objective
 
-Criar um sistema que auxilie a gestão de um pátio de contêineres, permitindo:
+Develop a system that assists in managing a container yard by providing:
 
-- **Cadastro de contêineres** com datas de entrada e saída previstas.
-- **Organização automática dos contêineres** para otimizar espaço e reduzir movimentos.
-- **Visualização do estado atual do pátio** em tabela (DataGrid) e visualização 3D.
-- **Planejamento de alocação** e sugestão de posição ideal para novos contêineres.
-- **Plano de retirada**: o sistema sugere a melhor estratégia para retirar um contêiner, minimizando movimentos.
-- **Histórico e relatório de operações**: todas as movimentações, inclusões, edições e remoções são registradas em log.
-
----
-
-## Funcionalidades
-
-- **Input de contêineres**: Adicione um ou mais contêineres, informando datas de entrada e saída.
-- **Organização inteligente**: Algoritmo otimiza a disposição dos contêineres no pátio.
-- **Visualização**: 
-  - Tabela detalhada (DataGrid) com status e datas.
-  - Visualização 3D interativa do pátio (HelixToolkit).
-- **Plano de retirada**: Veja os passos necessários para retirar um contêiner específico.
-- **Relatório de histórico**: Log detalhado de todas as operações e movimentações.
-- **Confirmação de ações críticas**: Edição, inclusão e remoção de contêineres exigem confirmação do usuário.
+- **Container registration** with expected arrival and departure dates.
+- **Automatic container organization** to optimize space utilization and reduce movements.
+- **Current yard visualization** through both a DataGrid table and a 3D representation.
+- **Allocation planning** with suggestions for the ideal position for new containers.
+- **Retrieval planning**: the system suggests the most efficient strategy for removing a container while minimizing movements.
+- **Operation history and reporting**: all movements, additions, edits, and removals are logged.
 
 ---
 
-## Requisitos Mínimos Atendidos
+## 🚀 Features
 
-- Cadastro e status dos contêineres.
-- Interface simples e intuitiva para visualização do pátio.
-- Algoritmo de posicionamento e otimização.
-- Relatório/histórico de remoções e movimentações.
+- **Container Input**: Add one or multiple containers, specifying arrival and departure dates.
+- **Smart Organization**: An optimization algorithm arranges containers efficiently within the yard.
+- **Visualization**:
+  - Detailed DataGrid displaying container status and dates.
+  - Interactive 3D yard visualization powered by HelixToolkit.
+- **Retrieval Plan**: View the required steps to remove a specific container.
+- **Operation History Report**: Detailed logs of all operations and movements.
+- **Critical Action Confirmation**: Container creation, editing, and deletion require user confirmation.
 
 ---
 
-## Tecnologias Utilizadas
+## ✅ Minimum Requirements Covered
+
+- Container registration and status tracking.
+- Simple and intuitive yard visualization interface.
+- Positioning and optimization algorithm.
+- Removal and movement history reporting.
+
+---
+
+## 🛠️ Technologies Used
 
 - **.NET 8 / C#**
 - **WPF (Windows Presentation Foundation)**
-- **HelixToolkit.Wpf** (visualização 3D)
-- **Newtonsoft.Json** (persistência dos dados)
-- **MVVM/Services** (organização do código)
+- **HelixToolkit.Wpf** (3D Visualization)
+- **Newtonsoft.Json** (Data Persistence)
+- **MVVM / Services Architecture**
 
 ---
 
-## Como Executar
+## 💻 How to Run
 
-1. Clone este repositório.
-2. Abra a solução no Visual Studio 2022 ou superior.
-3. Restaure os pacotes NuGet.
-4. Compile e execute o projeto `WpfHackthon`.
-5. Utilize a interface para cadastrar, organizar, visualizar e planejar a retirada dos contêineres.
-
----
-
-## Estrutura do Projeto
-
-- `MainWindow.xaml` / `MainWindow.xaml.cs`: Interface principal e lógica de interação.
-- `Classes/PatioService.cs`: Lógica de organização e manipulação dos contêineres.
-- `Classes/LogService.cs`: Registro de todas as operações.
-- `Classes/JsonService.cs`: Persistência dos dados em JSON.
-- `Patio3DViewWindow.xaml`: Visualização 3D do pátio.
+1. Clone this repository.
+2. Open the solution in Visual Studio 2022 or later.
+3. Restore all NuGet packages.
+4. Build and run the `WpfHackthon` project.
+5. Use the interface to register, organize, visualize, and plan container retrieval operations.
 
 ---
 
-## Observações
+## 🏗️ Project Structure
 
-- Todas as operações críticas são registradas em log para auditoria.
-- O sistema foi desenvolvido para ser facilmente expandido e adaptado a diferentes cenários portuários.
-- O código segue boas práticas de organização e separação de responsabilidades.
+- `MainWindow.xaml` / `MainWindow.xaml.cs` – Main user interface and interaction logic.
+- `Classes/PatioService.cs` – Container yard organization and management logic.
+- `Classes/LogService.cs` – Logging service for all operations.
+- `Classes/JsonService.cs` – JSON-based data persistence.
+- `Patio3DViewWindow.xaml` – 3D visualization window for the container yard.
 
 ---
 
-## Licença
+## 📝 Notes
 
-Este projeto foi desenvolvido para fins acadêmicos no Hackathon Unisanta - iPort Solutions.
-Pelo grupo Teck Minds participante: [Heitor Terrabuio, Luis Felipe Dias de Souza, Matheus Enrico Araujo Santos, Scott Kayllou Vitorino Melo].
+- All critical operations are logged for auditing purposes.
+- The system was designed to be easily expanded and adapted to different port operation scenarios.
+- The code follows best practices regarding organization, maintainability, and separation of responsibilities.
+
+---
+
+## 🏆 Team
+
+This project was developed for academic purposes during the **Unisanta Hackathon - iPort Solutions**.
+
+### 🤝 Contributors
+
+| Name | GitHub |
+|--------|--------|
+| Heitor Terrabuio | [@terrabuio-heitor](https://github.com/terrabuio-heitor) |
+| Luis Felipe Dias de Souza | [@luf3ds](https://github.com/luf3ds) |
+| Matheus Enrico Araujo Santos | [@V0rtexs](https://github.com/V0rtexs) |
+| Scott Kayllou Vitorino Melo | [@scottmelo2005-ops](https://github.com/scottmelo2005-ops) |
+
+---
+
+## 📄 License
+
+This project was developed for academic and educational purposes as part of the **Unisanta Hackathon - iPort Solutions**.
